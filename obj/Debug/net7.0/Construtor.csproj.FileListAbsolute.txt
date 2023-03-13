@@ -1,0 +1,15 @@
+C:\workspace\Estudos\CSharp\Construtor\bin\Debug\net7.0\Construtor.exe
+C:\workspace\Estudos\CSharp\Construtor\bin\Debug\net7.0\Construtor.deps.json
+C:\workspace\Estudos\CSharp\Construtor\bin\Debug\net7.0\Construtor.runtimeconfig.json
+C:\workspace\Estudos\CSharp\Construtor\bin\Debug\net7.0\Construtor.dll
+C:\workspace\Estudos\CSharp\Construtor\bin\Debug\net7.0\Construtor.pdb
+C:\workspace\Estudos\CSharp\Construtor\obj\Debug\net7.0\Construtor.csproj.AssemblyReference.cache
+C:\workspace\Estudos\CSharp\Construtor\obj\Debug\net7.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Estudos\CSharp\Construtor\obj\Debug\net7.0\Construtor.AssemblyInfoInputs.cache
+C:\workspace\Estudos\CSharp\Construtor\obj\Debug\net7.0\Construtor.AssemblyInfo.cs
+C:\workspace\Estudos\CSharp\Construtor\obj\Debug\net7.0\Construtor.csproj.CoreCompileInputs.cache
+C:\workspace\Estudos\CSharp\Construtor\obj\Debug\net7.0\Construtor.dll
+C:\workspace\Estudos\CSharp\Construtor\obj\Debug\net7.0\refint\Construtor.dll
+C:\workspace\Estudos\CSharp\Construtor\obj\Debug\net7.0\Construtor.pdb
+C:\workspace\Estudos\CSharp\Construtor\obj\Debug\net7.0\Construtor.genruntimeconfig.cache
+C:\workspace\Estudos\CSharp\Construtor\obj\Debug\net7.0\ref\Construtor.dll
